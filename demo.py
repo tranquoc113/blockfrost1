@@ -39,3 +39,5 @@ try:
 
 except ApiError as e:
     print(e)
+    
+# group developer cardano: https://t.me/+U_hyJliQERFhZWQ1
